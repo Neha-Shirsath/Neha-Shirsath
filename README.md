@@ -1,5 +1,3 @@
-# 💫 About Me:
-I am currently learning Machine learning and Artificial Intelligence.<br>Looking forward to work as a Data scientist.<br>
 
 
 ## 🌐 Socials:
