@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Neha Shirsath</h1>
-<h3 align="center">Web Development | AIML</h3>
+<h3 align="center">Web Development  |  AIML</h3>
 
 - 🌱 I’m currently learning **Frameworks, Artificial Intelligence**
 
@@ -92,7 +92,7 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-shirsath&show_icons=true&locale=en" alt="neha-shirsath" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neha-Shirsath&show_icons=true&locale=en" alt="Neha-Shirsath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-shirsath&" alt="neha-shirsath" /></p>
 
