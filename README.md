@@ -92,8 +92,6 @@
 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Neha-Shirsath&show_icons=true&locale=en" alt="Neha-Shirsath" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-shirsath&" alt="neha-shirsath" /></p>
 
 
