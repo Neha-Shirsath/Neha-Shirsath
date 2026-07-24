@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Neha Shirsath</h1>
-<h3 align="center">A passionate frontend developer.</h3>
+<h3 align="center">Web Development | AIML</h3>
 
 - 🌱 I’m currently learning **Frameworks, Artificial Intelligence**
 
@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/neha-shirsath-692039372/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha shirsath" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nehashirsath308" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Neha Shirsath" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/nehaa_60" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="nehaa_60" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,12 +35,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
+  <!--Typescript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>  
+
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
 
   <!--Tailwindcss -->
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/>
+  </a>
 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -83,6 +92,10 @@
 
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neha-shirsath&show_icons=true&locale=en" alt="neha-shirsath" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=neha-shirsath&" alt="neha-shirsath" /></p>
+
+
+
 
