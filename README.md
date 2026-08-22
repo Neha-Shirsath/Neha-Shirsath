@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Neha Shirsath</h1>
 <h3 align="center">Frontend Development  |  AIML</h3>
 
-- 🌱 I’m currently learning **
-- frontend Frameworks, Artificial Intelligence**
+- 🌱 I’m currently learning **frontend Frameworks, Artificial Intelligence**
 
 - 💬 Ask me about **HTML, CSS, Javascript, React**
 
