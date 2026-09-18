@@ -1,11 +1,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Neha Shirsath</h1>
-<h3 align="center">Frontend Development  |  AIML</h3>
+<h3 align="center">Web Development  |  AIML</h3>
 
 - 🌱 I’m currently learning **frontend Frameworks, Artificial Intelligence**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Javascript, React, Python**
 
 - 📫 How to reach me **nehashirsath308@gmail.com**
 
