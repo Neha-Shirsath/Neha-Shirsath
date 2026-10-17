@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Neha Shirsath</h1>
 <h3 align="center">Full Stack  |  AIML</h3>
 
-- 🌱 I’m currently learning **frontend Frameworks, Artificial Intelligence**
+- 🌱 I’m currently learning **Frameworks, Artificial Intelligence**
 
-- 💬 Ask me about **HTML, CSS, Javascript, React, Python, AI**
+- 💬 Ask me about **HTML, CSS, Javascript, React.js, Python, AI**
 
 - 📫 How to reach me **nehashirsath308@gmail.com**
 
